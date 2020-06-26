@@ -5,3 +5,5 @@ This tutorial is based on the series of articles "How to Write a Video Player in
 Less Than 1000 Lines" written by Dranger (http://dranger.com/ffmpeg/).
 
 I used the newer ffmpeg API and SDL2 instead of SDL in my source code, but the main idea remained the same as original.
+
+The all examples had been built with gcc 7.5.0 under Ubuntu 18.04. 
