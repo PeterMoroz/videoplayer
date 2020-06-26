@@ -1,5 +1,5 @@
 /****************************************************************************************
- tutorial05.c
+ tutorial07.c
  The code based on the tutorial 'How to Write a Video Player in Less Than 1000 Lines'
  http://dranger.com/ffmpeg/
 
